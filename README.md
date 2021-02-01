@@ -1,8 +1,8 @@
-# store-distance-microservice
+# Store-distance-microservice
 
 A node.js app that implements a microservice infrastructure and calculates the distance between two zipcodes by connecting to an external API(zipcodeapi.com). 
 
-##Demo
+## Demo
 
 https://store-mic.herokuapp.com/
 

@@ -12,12 +12,8 @@ https://store-mic.herokuapp.com/
 ```
 git clone https://github.com/Dagmawi-Beyene/store-distance-microservice.git
 ```
-2. Install all dependencies with NPM.
-```
-npm install
-```
 
-4. Start the project. Once you can view the application by opening http://localhost:3000 in your browser
+2. Start the project. Once you can view the application by opening http://localhost:3000 in your browser
 ```
 npm start
 ```
